@@ -1,16 +1,12 @@
-# Topics in Software Engineering
+# Fitness Tracker
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Description
 
-# Tools
-The tools that are installed with this devcontainer are:
+Many people struggle with maintaining a balanced lifestyle due to time constraints, lack of fitness knowledge, or difficulty in planning meals. People often find it challenging to create structured workout routines,
+track their fitness progress, or ensure their meals align with their health goals. This tracker will try to solve these issues by providing intelligent workout plans, personalized meal recommendations, and grocery lists based on 
+dietary preferences, fitness levels, and also give you recipes and guides to make meals based on the ingredients you already have.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## Primary Users
+- Students or individuals on a budget who need affordable meal options and home workouts.
+- Busy individuals who want quick and efficient fitness and meal options and are looking to maintain specific dietary and exercise plans.
+- Individuals who want to take care of their health and don't know how to cook.
